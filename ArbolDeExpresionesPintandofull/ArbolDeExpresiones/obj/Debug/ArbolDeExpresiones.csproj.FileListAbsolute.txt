@@ -1,0 +1,63 @@
+C:\Users\usuario\Desktop\ArbollDeExpresiones\ArbolDeExpresiones\ArbolDeExpresiones\bin\Debug\ArbolDeExpresiones.exe.config
+C:\Users\usuario\Desktop\ArbollDeExpresiones\ArbolDeExpresiones\ArbolDeExpresiones\bin\Debug\ArbolDeExpresiones.exe
+C:\Users\usuario\Desktop\ArbollDeExpresiones\ArbolDeExpresiones\ArbolDeExpresiones\bin\Debug\ArbolDeExpresiones.pdb
+C:\Users\usuario\Desktop\ArbollDeExpresiones\ArbolDeExpresiones\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\ArbollDeExpresiones\ArbolDeExpresiones\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.Form1.resources
+C:\Users\usuario\Desktop\ArbollDeExpresiones\ArbolDeExpresiones\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.Properties.Resources.resources
+C:\Users\usuario\Desktop\ArbollDeExpresiones\ArbolDeExpresiones\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\ArbollDeExpresiones\ArbolDeExpresiones\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.exe
+C:\Users\usuario\Desktop\ArbollDeExpresiones\ArbolDeExpresiones\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.pdb
+C:\Users\ss\Desktop\ArbolDeExpresiones\ArbolDeExpresiones\bin\Debug\ArbolDeExpresiones.exe.config
+C:\Users\ss\Desktop\ArbolDeExpresiones\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.exe
+C:\Users\ss\Desktop\ArbolDeExpresiones\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.pdb
+C:\Users\ss\Desktop\ArbolDeExpresiones\ArbolDeExpresiones\bin\Debug\ArbolDeExpresiones.exe
+C:\Users\ss\Desktop\ArbolDeExpresiones\ArbolDeExpresiones\bin\Debug\ArbolDeExpresiones.pdb
+C:\Users\ss\Desktop\ArbolDeExpresiones\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.csprojResolveAssemblyReference.cache
+C:\Users\ss\Desktop\ArbolDeExpresiones\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.GUIArbolDeExpresiones.resources
+C:\Users\ss\Desktop\ArbolDeExpresiones\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.Properties.Resources.resources
+C:\Users\ss\Desktop\ArbolDeExpresiones\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.csproj.GenerateResource.Cache
+C:\Users\ss\Google Drive\ArbolDeExpresionesEntrega\ArbolDeExpresiones\bin\Debug\ArbolDeExpresiones.exe.config
+C:\Users\ss\Google Drive\ArbolDeExpresionesEntrega\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.exe
+C:\Users\ss\Google Drive\ArbolDeExpresionesEntrega\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.pdb
+C:\Users\ss\Google Drive\ArbolDeExpresionesEntrega\ArbolDeExpresiones\bin\Debug\ArbolDeExpresiones.exe
+C:\Users\ss\Google Drive\ArbolDeExpresionesEntrega\ArbolDeExpresiones\bin\Debug\ArbolDeExpresiones.pdb
+C:\Users\ss\Google Drive\ArbolDeExpresionesEntrega\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.csprojResolveAssemblyReference.cache
+C:\Users\ss\Google Drive\ArbolDeExpresionesEntrega\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.GUIArbolDeExpresiones.resources
+C:\Users\ss\Google Drive\ArbolDeExpresionesEntrega\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.Properties.Resources.resources
+C:\Users\ss\Google Drive\ArbolDeExpresionesEntrega\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.csproj.GenerateResource.Cache
+I:\ArbolDeExpresionesEntrega\ArbolDeExpresiones\bin\Debug\ArbolDeExpresiones.exe.config
+I:\ArbolDeExpresionesEntrega\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.exe
+I:\ArbolDeExpresionesEntrega\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.pdb
+I:\ArbolDeExpresionesEntrega\ArbolDeExpresiones\bin\Debug\ArbolDeExpresiones.exe
+I:\ArbolDeExpresionesEntrega\ArbolDeExpresiones\bin\Debug\ArbolDeExpresiones.pdb
+I:\ArbolDeExpresionesEntrega\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.csprojResolveAssemblyReference.cache
+I:\ArbolDeExpresionesEntrega\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.GUIArbolDeExpresiones.resources
+I:\ArbolDeExpresionesEntrega\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.Properties.Resources.resources
+I:\ArbolDeExpresionesEntrega\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.csproj.GenerateResource.Cache
+D:\Universidad de Ibagué\Matematicas Discretas\2220161033-220161046Arboles\2220161033-2220161046\ArbolDeExpresiones\bin\Debug\ArbolDeExpresiones.exe.config
+D:\Universidad de Ibagué\Matematicas Discretas\2220161033-220161046Arboles\2220161033-2220161046\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.exe
+D:\Universidad de Ibagué\Matematicas Discretas\2220161033-220161046Arboles\2220161033-2220161046\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.pdb
+D:\Universidad de Ibagué\Matematicas Discretas\2220161033-220161046Arboles\2220161033-2220161046\ArbolDeExpresiones\bin\Debug\ArbolDeExpresiones.exe
+D:\Universidad de Ibagué\Matematicas Discretas\2220161033-220161046Arboles\2220161033-2220161046\ArbolDeExpresiones\bin\Debug\ArbolDeExpresiones.pdb
+D:\Universidad de Ibagué\Matematicas Discretas\2220161033-220161046Arboles\2220161033-2220161046\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.csprojResolveAssemblyReference.cache
+D:\Universidad de Ibagué\Matematicas Discretas\2220161033-220161046Arboles\2220161033-2220161046\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.GUIArbolDeExpresiones.resources
+D:\Universidad de Ibagué\Matematicas Discretas\2220161033-220161046Arboles\2220161033-2220161046\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.Properties.Resources.resources
+D:\Universidad de Ibagué\Matematicas Discretas\2220161033-220161046Arboles\2220161033-2220161046\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.csproj.GenerateResource.Cache
+C:\Users\ss\Desktop\Matematicas discretasVisualStudio\2220161033-220161046ArbolPintando\2220161033-220161046Arbol\2220161033-2220161046\ArbolDeExpresiones\bin\Debug\ArbolDeExpresiones.exe.config
+C:\Users\ss\Desktop\Matematicas discretasVisualStudio\2220161033-220161046ArbolPintando\2220161033-220161046Arbol\2220161033-2220161046\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.exe
+C:\Users\ss\Desktop\Matematicas discretasVisualStudio\2220161033-220161046ArbolPintando\2220161033-220161046Arbol\2220161033-2220161046\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.pdb
+C:\Users\ss\Desktop\Matematicas discretasVisualStudio\2220161033-220161046ArbolPintando\2220161033-220161046Arbol\2220161033-2220161046\ArbolDeExpresiones\bin\Debug\ArbolDeExpresiones.exe
+C:\Users\ss\Desktop\Matematicas discretasVisualStudio\2220161033-220161046ArbolPintando\2220161033-220161046Arbol\2220161033-2220161046\ArbolDeExpresiones\bin\Debug\ArbolDeExpresiones.pdb
+C:\Users\ss\Desktop\Matematicas discretasVisualStudio\2220161033-220161046ArbolPintando\2220161033-220161046Arbol\2220161033-2220161046\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.csprojResolveAssemblyReference.cache
+C:\Users\ss\Desktop\Matematicas discretasVisualStudio\2220161033-220161046ArbolPintando\2220161033-220161046Arbol\2220161033-2220161046\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.GUIArbolDeExpresiones.resources
+C:\Users\ss\Desktop\Matematicas discretasVisualStudio\2220161033-220161046ArbolPintando\2220161033-220161046Arbol\2220161033-2220161046\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.Properties.Resources.resources
+C:\Users\ss\Desktop\Matematicas discretasVisualStudio\2220161033-220161046ArbolPintando\2220161033-220161046Arbol\2220161033-2220161046\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.csproj.GenerateResource.Cache
+C:\Users\ss\Source\Repos\matematicas\ArbolDeExpresionesPintando\ArbolDeExpresiones\bin\Debug\ArbolDeExpresiones.exe.config
+C:\Users\ss\Source\Repos\matematicas\ArbolDeExpresionesPintando\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.exe
+C:\Users\ss\Source\Repos\matematicas\ArbolDeExpresionesPintando\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.pdb
+C:\Users\ss\Source\Repos\matematicas\ArbolDeExpresionesPintando\ArbolDeExpresiones\bin\Debug\ArbolDeExpresiones.exe
+C:\Users\ss\Source\Repos\matematicas\ArbolDeExpresionesPintando\ArbolDeExpresiones\bin\Debug\ArbolDeExpresiones.pdb
+C:\Users\ss\Source\Repos\matematicas\ArbolDeExpresionesPintando\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.csprojResolveAssemblyReference.cache
+C:\Users\ss\Source\Repos\matematicas\ArbolDeExpresionesPintando\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.GUIArbolDeExpresiones.resources
+C:\Users\ss\Source\Repos\matematicas\ArbolDeExpresionesPintando\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.Properties.Resources.resources
+C:\Users\ss\Source\Repos\matematicas\ArbolDeExpresionesPintando\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.csproj.GenerateResource.Cache

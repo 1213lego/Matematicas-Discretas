@@ -1,0 +1,104 @@
+C:\Users\ss\Downloads\Juegos\Juegos\bin\Debug\Juegos.exe.config
+C:\Users\ss\Downloads\Juegos\Juegos\bin\Debug\Juegos.exe
+C:\Users\ss\Downloads\Juegos\Juegos\bin\Debug\Juegos.pdb
+C:\Users\ss\Downloads\Juegos\Juegos\obj\Debug\Juegos.csprojResolveAssemblyReference.cache
+C:\Users\ss\Downloads\Juegos\Juegos\obj\Debug\Juegos.guiJuego.resources
+C:\Users\ss\Downloads\Juegos\Juegos\obj\Debug\Juegos.Properties.Resources.resources
+C:\Users\ss\Downloads\Juegos\Juegos\obj\Debug\Juegos.csproj.GenerateResource.Cache
+C:\Users\ss\Downloads\Juegos\Juegos\obj\Debug\Juegos.exe
+C:\Users\ss\Downloads\Juegos\Juegos\obj\Debug\Juegos.pdb
+C:\Users\ss\Pictures\Juegos\Juegos\bin\Debug\Juegos.exe.config
+C:\Users\ss\Pictures\Juegos\Juegos\obj\Debug\Juegos.exe
+C:\Users\ss\Pictures\Juegos\Juegos\obj\Debug\Juegos.pdb
+C:\Users\ss\Pictures\Juegos\Juegos\bin\Debug\Juegos.exe
+C:\Users\ss\Pictures\Juegos\Juegos\bin\Debug\Juegos.pdb
+C:\Users\ss\Pictures\Juegos\Juegos\obj\Debug\Juegos.csprojResolveAssemblyReference.cache
+C:\Users\ss\Pictures\Juegos\Juegos\obj\Debug\Juegos.guiJuego.resources
+C:\Users\ss\Pictures\Juegos\Juegos\obj\Debug\Juegos.Properties.Resources.resources
+C:\Users\ss\Pictures\Juegos\Juegos\obj\Debug\Juegos.csproj.GenerateResource.Cache
+I:\Juegos-20180220T144937Z-001\Juegos\Juegos\bin\Debug\Juegos.exe.config
+I:\Juegos-20180220T144937Z-001\Juegos\Juegos\obj\Debug\Juegos.pdb
+C:\Users\ss\Desktop\Juegos\Juegos\bin\Debug\Juegos.exe.config
+C:\Users\ss\Desktop\Juegos\Juegos\obj\Debug\Juegos.pdb
+C:\Users\ss\Desktop\Juegos\Juegos\obj\Debug\Juegos.csprojResolveAssemblyReference.cache
+C:\Users\ss\Desktop\Juegos\Juegos\obj\Debug\Juegos.guiJuego.resources
+C:\Users\ss\Desktop\Juegos\Juegos\obj\Debug\Juegos.Properties.Resources.resources
+C:\Users\ss\Desktop\Juegos\Juegos\obj\Debug\Juegos.csproj.GenerateResource.Cache
+C:\Users\ss\Desktop\Juegos\Juegos\bin\Debug\Juegos.exe
+C:\Users\ss\Desktop\Juegos\Juegos\bin\Debug\Juegos.pdb
+C:\Users\ss\Desktop\Juegos\Juegos\obj\Debug\Juegos.exe
+C:\Users\ss\Desktop\Juegos_OLD\Juegos\bin\Debug\Juegos.exe.config
+C:\Users\ss\Desktop\Juegos_OLD\Juegos\obj\Debug\Juegos.exe
+C:\Users\ss\Desktop\Juegos_OLD\Juegos\obj\Debug\Juegos.pdb
+C:\Users\ss\Desktop\Juegos_OLD\Juegos\obj\Debug\Juegos.csprojResolveAssemblyReference.cache
+C:\Users\ss\Desktop\Juegos_OLD\Juegos\obj\Debug\Juegos.guiJuego.resources
+C:\Users\ss\Desktop\Juegos_OLD\Juegos\obj\Debug\Juegos.Properties.Resources.resources
+C:\Users\ss\Desktop\Juegos_OLD\Juegos\obj\Debug\Juegos.csproj.GenerateResource.Cache
+I:\Juegos\Juegos\bin\Debug\Juegos.exe.config
+I:\Juegos\Juegos\obj\Debug\Juegos.exe
+I:\Juegos\Juegos\obj\Debug\Juegos.pdb
+I:\Juegos\Juegos\bin\Debug\Juegos.exe
+I:\Juegos\Juegos\bin\Debug\Juegos.pdb
+I:\Juegos\Juegos\obj\Debug\Juegos.csprojResolveAssemblyReference.cache
+I:\Juegos\Juegos\obj\Debug\Juegos.guiJuego.resources
+I:\Juegos\Juegos\obj\Debug\Juegos.Properties.Resources.resources
+I:\Juegos\Juegos\obj\Debug\Juegos.csproj.GenerateResource.Cache
+I:\2220161033-2220161046\Juegos\bin\Debug\Juegos.exe.config
+I:\2220161033-2220161046\Juegos\obj\Debug\Juegos.exe
+I:\2220161033-2220161046\Juegos\obj\Debug\Juegos.pdb
+J:\2220161033-2220161046\Juegos\bin\Debug\Juegos.exe.config
+J:\2220161033-2220161046\Juegos\obj\Debug\Juegos.exe
+J:\2220161033-2220161046\Juegos\obj\Debug\Juegos.pdb
+F:\2220161033-2220161046\Juegos\bin\Debug\Juegos.exe.config
+F:\2220161033-2220161046\Juegos\obj\Debug\Juegos.exe
+F:\2220161033-2220161046\Juegos\obj\Debug\Juegos.pdb
+F:\2220161033-2220161046\Juegos\bin\Debug\Juegos.exe
+F:\2220161033-2220161046\Juegos\bin\Debug\Juegos.pdb
+F:\2220161033-2220161046\Juegos\obj\Debug\Juegos.csprojResolveAssemblyReference.cache
+F:\2220161033-2220161046\Juegos\obj\Debug\Juegos.guiLista.resources
+F:\2220161033-2220161046\Juegos\obj\Debug\Juegos.guiJuego.resources
+F:\2220161033-2220161046\Juegos\obj\Debug\Juegos.Properties.Resources.resources
+F:\2220161033-2220161046\Juegos\obj\Debug\Juegos.csproj.GenerateResource.Cache
+F:\2220161033-2220161046\Juegos\obj\Debug\Juegos.guiPrincipal.resources
+J:\2220161033-2220161046\Juegos\bin\Debug\Juegos.exe
+J:\2220161033-2220161046\Juegos\bin\Debug\Juegos.pdb
+J:\2220161033-2220161046\Juegos\obj\Debug\Juegos.csprojResolveAssemblyReference.cache
+J:\2220161033-2220161046\Juegos\obj\Debug\Juegos.guiLista.resources
+J:\2220161033-2220161046\Juegos\obj\Debug\Juegos.guiJuego.resources
+J:\2220161033-2220161046\Juegos\obj\Debug\Juegos.guiPrincipal.resources
+J:\2220161033-2220161046\Juegos\obj\Debug\Juegos.Properties.Resources.resources
+J:\2220161033-2220161046\Juegos\obj\Debug\Juegos.csproj.GenerateResource.Cache
+E:\2220161033-2220161046\Juegos\bin\Debug\Juegos.exe.config
+E:\2220161033-2220161046\Juegos\obj\Debug\Juegos.exe
+E:\2220161033-2220161046\Juegos\obj\Debug\Juegos.pdb
+E:\2220161033-2220161046\Juegos\bin\Debug\Juegos.exe
+E:\2220161033-2220161046\Juegos\bin\Debug\Juegos.pdb
+E:\2220161033-2220161046\Juegos\obj\Debug\Juegos.csprojResolveAssemblyReference.cache
+E:\2220161033-2220161046\Juegos\obj\Debug\Juegos.guiLista.resources
+E:\2220161033-2220161046\Juegos\obj\Debug\Juegos.guiJuego.resources
+E:\2220161033-2220161046\Juegos\obj\Debug\Juegos.guiPrincipal.resources
+E:\2220161033-2220161046\Juegos\obj\Debug\Juegos.Properties.Resources.resources
+E:\2220161033-2220161046\Juegos\obj\Debug\Juegos.csproj.GenerateResource.Cache
+D:\Universidad de Ibagué\Matematicas Discretas\2220161033-2220161046\Juegos\bin\Debug\Juegos.exe.config
+D:\Universidad de Ibagué\Matematicas Discretas\2220161033-2220161046\Juegos\obj\Debug\Juegos.exe
+D:\Universidad de Ibagué\Matematicas Discretas\2220161033-2220161046\Juegos\obj\Debug\Juegos.pdb
+D:\Universidad de Ibagué\Matematicas Discretas\2220161033-2220161046\Juegos\obj\Debug\Juegos.csprojResolveAssemblyReference.cache
+D:\Universidad de Ibagué\Matematicas Discretas\2220161033-2220161046\Juegos\obj\Debug\Juegos.guiLista.resources
+D:\Universidad de Ibagué\Matematicas Discretas\2220161033-2220161046\Juegos\obj\Debug\Juegos.guiJuego.resources
+D:\Universidad de Ibagué\Matematicas Discretas\2220161033-2220161046\Juegos\obj\Debug\Juegos.guiPrincipal.resources
+D:\Universidad de Ibagué\Matematicas Discretas\2220161033-2220161046\Juegos\obj\Debug\Juegos.Properties.Resources.resources
+D:\Universidad de Ibagué\Matematicas Discretas\2220161033-2220161046\Juegos\obj\Debug\Juegos.csproj.GenerateResource.Cache
+D:\Universidad de Ibagué\Matematicas Discretas\2220161033-2220161046\Juegos\bin\Debug\Juegos.exe
+D:\Universidad de Ibagué\Matematicas Discretas\2220161033-2220161046\Juegos\bin\Debug\Juegos.pdb
+C:\Users\ss\Downloads\2220161033-2220161046\Juegos\bin\Debug\Juegos.exe.config
+C:\Users\ss\Downloads\2220161033-2220161046\Juegos\obj\Debug\Juegos.exe
+C:\Users\ss\Downloads\2220161033-2220161046\Juegos\obj\Debug\Juegos.pdb
+C:\Users\ss\Downloads\2220161033-2220161046\Juegos\bin\Debug\Juegos.exe
+C:\Users\ss\Downloads\2220161033-2220161046\Juegos\bin\Debug\Juegos.pdb
+C:\Users\ss\Downloads\2220161033-2220161046\Juegos\obj\Debug\Juegos.csprojResolveAssemblyReference.cache
+C:\Users\ss\Downloads\2220161033-2220161046\Juegos\obj\Debug\Juegos.acercaDe.resources
+C:\Users\ss\Downloads\2220161033-2220161046\Juegos\obj\Debug\Juegos.guiLista.resources
+C:\Users\ss\Downloads\2220161033-2220161046\Juegos\obj\Debug\Juegos.guiJuego.resources
+C:\Users\ss\Downloads\2220161033-2220161046\Juegos\obj\Debug\Juegos.guiPrincipal.resources
+C:\Users\ss\Downloads\2220161033-2220161046\Juegos\obj\Debug\Juegos.Properties.Resources.resources
+C:\Users\ss\Downloads\2220161033-2220161046\Juegos\obj\Debug\Juegos.csproj.GenerateResource.Cache

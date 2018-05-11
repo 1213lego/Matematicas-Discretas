@@ -1,0 +1,35 @@
+c:\users\usuario\documents\visual studio 2015\Projects\matrices\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\matrices\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\usuario\documents\visual studio 2015\Projects\matrices\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\matrices\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\matrices\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\usuario\documents\visual studio 2015\Projects\matrices\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2015\Projects\matrices\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2015\Projects\matrices\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\usuario\documents\visual studio 2015\Projects\matrices\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Universidad de Ibagué\Matematicas Discretas\matrices-20180424T220227Z-001\matrices\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Universidad de Ibagué\Matematicas Discretas\matrices-20180424T220227Z-001\matrices\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Universidad de Ibagué\Matematicas Discretas\matrices-20180424T220227Z-001\matrices\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Universidad de Ibagué\Matematicas Discretas\matrices-20180424T220227Z-001\matrices\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Universidad de Ibagué\Matematicas Discretas\matrices-20180424T220227Z-001\matrices\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Universidad de Ibagué\Matematicas Discretas\matrices-20180424T220227Z-001\matrices\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Universidad de Ibagué\Matematicas Discretas\matrices-20180424T220227Z-001\matrices\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Universidad de Ibagué\Matematicas Discretas\matrices-20180424T220227Z-001\matrices\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Universidad de Ibagué\Matematicas Discretas\matrices-20180424T220227Z-001\matrices\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GUIClasico.resources
+D:\Universidad de Ibagué\Matematicas Discretas\matrices-20180424T220227Z-001\matrices\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GUIPrincipal.resources
+D:\Universidad de Ibagué\Matematicas Discretas\matrices-20180424T220227Z-001\matrices\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GUIParticion.resources
+D:\Universidad de Ibagué\Matematicas Discretas\matrices-20180424T220227Z-001\matrices\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GUIStrassen.resources
+D:\Universidad de Ibagué\Matematicas Discretas\matrices-20180424T220227Z-001\matrices\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GUIWinograd.resources
+I:\matrices\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+I:\matrices\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+I:\matrices\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+I:\matrices\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+I:\matrices\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+I:\matrices\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+I:\matrices\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GUIWinograd.resources
+I:\matrices\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GUIStrassen.resources
+I:\matrices\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GUIParticion.resources
+I:\matrices\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GUIClasico.resources
+I:\matrices\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GUIPrincipal.resources
+I:\matrices\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+I:\matrices\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
