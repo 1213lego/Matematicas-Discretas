@@ -65,12 +65,12 @@ namespace WindowsFormsApplication1
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-            int[,] matrizGrafo = new int[dataGridView1.RowCount - 1, dataGridView1.ColumnCount - 1];
-            for (int i = 1; i < dataGridView1.RowCount; i++)
+            string [,] matrizGrafo = new string[dataGridView1.RowCount , dataGridView1.ColumnCount ];
+            for (int i = 0; i < dataGridView1.RowCount; i++)
             {
-                for (int j = 1; j < dataGridView1.ColumnCount; j++)
+                for (int j = 0; j < dataGridView1.ColumnCount; j++)
                 {
-                    matrizGrafo[i - 1, j - 1] = Convert.ToInt32(dataGridView1[j, i].Value);
+                    matrizGrafo[i , j ] =Convert.ToString(dataGridView1[j, i].Value);
                 }
             }
             servicioGrafo.setGrafo(matrizGrafo);
