@@ -61,3 +61,6 @@ C:\Users\ss\Source\Repos\matematicas\ArbolDeExpresionesPintando\ArbolDeExpresion
 C:\Users\ss\Source\Repos\matematicas\ArbolDeExpresionesPintando\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.GUIArbolDeExpresiones.resources
 C:\Users\ss\Source\Repos\matematicas\ArbolDeExpresionesPintando\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.Properties.Resources.resources
 C:\Users\ss\Source\Repos\matematicas\ArbolDeExpresionesPintando\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.csproj.GenerateResource.Cache
+C:\Users\ss\Desktop\Matematicas discretasVisualStudio\ReposGIt\Matematicas-discretas\ArbolDeExpresionesPintandofull\ArbolDeExpresiones\bin\Debug\ArbolDeExpresiones.exe.config
+C:\Users\ss\Desktop\Matematicas discretasVisualStudio\ReposGIt\Matematicas-discretas\ArbolDeExpresionesPintandofull\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.exe
+C:\Users\ss\Desktop\Matematicas discretasVisualStudio\ReposGIt\Matematicas-discretas\ArbolDeExpresionesPintandofull\ArbolDeExpresiones\obj\Debug\ArbolDeExpresiones.pdb
