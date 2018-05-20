@@ -16,3 +16,6 @@ C:\Users\ss\Desktop\Matematicas discretasVisualStudio\ReposGIt\Matematicas-discr
 C:\Users\ss\Desktop\Matematicas discretasVisualStudio\ReposGIt\Matematicas-discretas\grafos\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
 C:\Users\ss\Desktop\Matematicas discretasVisualStudio\ReposGIt\Matematicas-discretas\grafos\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\ss\Desktop\Matematicas discretasVisualStudio\ReposGIt\Matematicas-discretas\grafos\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\islas\Documents\PrototipoIng\Matematicas-discretas\grafos\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\islas\Documents\PrototipoIng\Matematicas-discretas\grafos\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\islas\Documents\PrototipoIng\Matematicas-discretas\grafos\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
