@@ -48,11 +48,22 @@ namespace WindowsFormsApplication1
         {
             if(e.RowIndex>=1 && e.ColumnIndex>=1)
             {
-                dataGridView1[e.ColumnIndex, e.RowIndex].Value = 1;
+               if (Convert.ToInt32(dataGridView1[e.ColumnIndex, e.RowIndex].Value) == 1)
+                {
+                    dataGridView1[e.ColumnIndex, e.RowIndex].Value = 0;
+                }
+                else
+                {
+                    dataGridView1[e.ColumnIndex, e.RowIndex].Value = 1;
+                }
             }           
         }
 
         private void buttCrearGrafo_Click(object sender, EventArgs e)
+        {
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
         {
             int[,] matrizGrafo = new int[dataGridView1.RowCount - 1, dataGridView1.ColumnCount - 1];
             for (int i = 1; i < dataGridView1.RowCount; i++)
@@ -63,6 +74,7 @@ namespace WindowsFormsApplication1
                 }
             }
             servicioGrafo.setGrafo(matrizGrafo);
+
         }
     }
 }
