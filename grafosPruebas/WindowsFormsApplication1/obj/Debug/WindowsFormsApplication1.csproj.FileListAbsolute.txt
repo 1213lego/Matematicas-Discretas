@@ -28,3 +28,12 @@ C:\Users\ss\Desktop\grafos\WindowsFormsApplication1\obj\Debug\WindowsFormsApplic
 C:\Users\ss\Desktop\grafos\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
 C:\Users\ss\Desktop\grafos\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\ss\Desktop\grafos\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ss\Desktop\Matematicas discretasVisualStudio\ReposGIt\Matematicas-discretas\grafosPruebas\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ss\Desktop\Matematicas discretasVisualStudio\ReposGIt\Matematicas-discretas\grafosPruebas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ss\Desktop\Matematicas discretasVisualStudio\ReposGIt\Matematicas-discretas\grafosPruebas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\ss\Desktop\Matematicas discretasVisualStudio\ReposGIt\Matematicas-discretas\grafosPruebas\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ss\Desktop\Matematicas discretasVisualStudio\ReposGIt\Matematicas-discretas\grafosPruebas\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ss\Desktop\Matematicas discretasVisualStudio\ReposGIt\Matematicas-discretas\grafosPruebas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ss\Desktop\Matematicas discretasVisualStudio\ReposGIt\Matematicas-discretas\grafosPruebas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ss\Desktop\Matematicas discretasVisualStudio\ReposGIt\Matematicas-discretas\grafosPruebas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ss\Desktop\Matematicas discretasVisualStudio\ReposGIt\Matematicas-discretas\grafosPruebas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

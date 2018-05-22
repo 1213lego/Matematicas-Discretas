@@ -72,11 +72,14 @@ namespace WindowsFormsApplication1
         public string ruta(string origen, string destino)
         {
             string result = null;
-            string[,] matrizsBfs = bfs(origen);
+            string[,] matrizBfs = bfs(origen);
             int posOrigen = Encoding.ASCII.GetBytes(origen.ToCharArray())[0] - 65;
             int posDestino = Encoding.ASCII.GetBytes(destino.ToCharArray())[0] - 65;
-            int d = Convert.ToInt32(matrizsBfs[1, posDestino]);
-            result = rutabfs(posDestino,matrizsBfs)+destino;
+            string pi = matrizBfs[2, posDestino];
+            if(!pi.Equals("Null"))
+            {
+                result = rutabfs(posDestino, matrizBfs) + destino;
+            }
             return result;
         }
         private string rutabfs(int destino, string [,] matrizBfs)
