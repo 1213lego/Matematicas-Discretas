@@ -38,14 +38,14 @@
             this.textBoxDestino = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
-            this.dataGridView2 = new System.Windows.Forms.DataGridView();
+            this.textBoxRuta = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
             this.SuspendLayout();
             // 
             // buttcrearVertices
             // 
-            this.buttcrearVertices.Location = new System.Drawing.Point(53, 39);
+            this.buttcrearVertices.Location = new System.Drawing.Point(75, 38);
             this.buttcrearVertices.Name = "buttcrearVertices";
             this.buttcrearVertices.Size = new System.Drawing.Size(82, 24);
             this.buttcrearVertices.TabIndex = 0;
@@ -114,7 +114,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(53, 131);
+            this.button1.Location = new System.Drawing.Point(64, 252);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(93, 23);
             this.button1.TabIndex = 9;
@@ -124,30 +124,38 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(62, 209);
+            this.button2.Location = new System.Drawing.Point(75, 121);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.Size = new System.Drawing.Size(100, 23);
             this.button2.TabIndex = 10;
-            this.button2.Text = "button2";
+            this.button2.Text = "Buscar Ruta";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
-            // dataGridView2
+            // textBoxRuta
             // 
-            this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView2.ColumnHeadersVisible = false;
-            this.dataGridView2.Location = new System.Drawing.Point(181, 294);
-            this.dataGridView2.Name = "dataGridView2";
-            this.dataGridView2.RowHeadersVisible = false;
-            this.dataGridView2.Size = new System.Drawing.Size(436, 150);
-            this.dataGridView2.TabIndex = 11;
+            this.textBoxRuta.Enabled = false;
+            this.textBoxRuta.Location = new System.Drawing.Point(75, 154);
+            this.textBoxRuta.Name = "textBoxRuta";
+            this.textBoxRuta.Size = new System.Drawing.Size(100, 20);
+            this.textBoxRuta.TabIndex = 12;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(12, 157);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(30, 13);
+            this.label4.TabIndex = 13;
+            this.label4.Text = "Ruta";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(690, 456);
-            this.Controls.Add(this.dataGridView2);
+            this.ClientSize = new System.Drawing.Size(616, 287);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.textBoxRuta);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBoxDestino);
@@ -161,7 +169,6 @@
             this.Name = "Form1";
             this.Text = "Grafos";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -179,7 +186,8 @@
         private System.Windows.Forms.TextBox textBoxDestino;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.DataGridView dataGridView2;
+        private System.Windows.Forms.TextBox textBoxRuta;
+        private System.Windows.Forms.Label label4;
     }
 }
 

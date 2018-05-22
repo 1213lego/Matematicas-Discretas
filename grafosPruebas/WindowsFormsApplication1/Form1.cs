@@ -21,18 +21,26 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int x = Convert.ToInt32(textBox1.Text)+1;
-            dataGridView1.RowCount = x;
-            dataGridView1.ColumnCount = x;
-            for(int i=1, k=65;i<dataGridView1.ColumnCount;i++,k++)
+           try
             {
-                dataGridView1[i,0].Value = Convert.ToString(Convert.ToChar(k));
-                dataGridView1[0, i].Value = Convert.ToString(Convert.ToChar(k));
+                int x = Convert.ToInt32(textBox1.Text) + 1;                
+                dataGridView1.RowCount = x;
+                dataGridView1.ColumnCount = x;
+                for (int i = 1, k = 65; i < dataGridView1.ColumnCount; i++, k++)
+                {
+                    dataGridView1[i, 0].Value = Convert.ToString(Convert.ToChar(k));
+                    dataGridView1[0, i].Value = Convert.ToString(Convert.ToChar(k));
 
+                }
+                llenar();
+                dataGridView1.AutoResizeColumns();
+                dataGridView1.AutoResizeRows();
             }
-            llenar();
-            dataGridView1.AutoResizeColumns();
-            dataGridView1.AutoResizeRows();
+            catch (Exception ee)
+            {
+                MessageBox.Show(ee.Message);
+            }
+
         }
         public void llenar()
         {
@@ -76,30 +84,28 @@ namespace WindowsFormsApplication1
 
         private void button2_Click(object sender, EventArgs e)
         {
-            string[,] matrizGrafo = new string[dataGridView1.RowCount - 1, dataGridView1.ColumnCount - 1];
-            for (int i = 1; i < dataGridView1.RowCount; i++)
+           try
             {
-                for (int j = 1; j < dataGridView1.ColumnCount; j++)
+                string[,] matrizGrafo = new string[dataGridView1.RowCount - 1, dataGridView1.ColumnCount - 1];
+                for (int i = 1; i < dataGridView1.RowCount; i++)
                 {
-                    matrizGrafo[i - 1, j - 1] = Convert.ToString(dataGridView1[j, i].Value);
+                    for (int j = 1; j < dataGridView1.ColumnCount; j++)
+                    {
+                        matrizGrafo[i - 1, j - 1] = Convert.ToString(dataGridView1[j, i].Value);
+                    }
                 }
+                servicioGrafo.setGrafo(matrizGrafo);
+                string nodoOrigen = textBoxOrigen.Text.ToUpper();
+                string nodoDestino = textBoxDestino.Text.ToUpper();                
+                
+                    string ruta = servicioGrafo.ruta(nodoOrigen, nodoDestino);
+                    textBoxRuta.Text = ruta;
+                
             }
-            servicioGrafo.setGrafo(matrizGrafo);
-            string nodoOrigen = textBoxOrigen.Text.ToUpper();
-            string nodoDestino = textBoxDestino.Text.ToUpper();
-            string [,] s = servicioGrafo.bfs(nodoOrigen);
-            dataGridView2.RowCount = s.GetLength(0);
-            dataGridView2.ColumnCount = s.GetLength(1);
-            for(int i=0; i< dataGridView2.RowCount;i++)
+            catch(Exception ee)
             {
-                for(int j=0;j<dataGridView2.ColumnCount;j++)
-                {
-                    dataGridView2[j, i].Value = s[i, j];
-                }
+                MessageBox.Show(ee.Message);
             }
-            dataGridView2.AutoResizeColumns();
-            dataGridView2.AutoResizeRows();
-            MessageBox.Show(servicioGrafo.ruta(nodoOrigen, nodoDestino));
         }
     }
 }

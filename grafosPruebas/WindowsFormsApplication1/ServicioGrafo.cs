@@ -69,9 +69,30 @@ namespace WindowsFormsApplication1
             }
             return result;
         }
+        public void verificar(string origen, string destino)
+        {
+            if(grafo!=null)
+            {
+                int posOrigen = Encoding.ASCII.GetBytes(origen.ToCharArray())[0] - 65;
+                int posDestino = Encoding.ASCII.GetBytes(destino.ToCharArray())[0] - 65;
+                if(posOrigen<0 || posOrigen>grafo.GetLength(0))
+                {
+                    throw new Exception("El nodo de origen no existe");
+                }
+                if(posDestino<0 || posDestino>grafo.GetLength(0))
+                {
+                    throw new Exception("El nodo de destino no existe");
+                }
+            }
+            else
+            {
+                throw new Exception("No se ha creado el grafo");
+            }
+        }
         public string ruta(string origen, string destino)
         {
             string result = null;
+            verificar(origen, destino);
             string[,] matrizBfs = bfs(origen);
             int posOrigen = Encoding.ASCII.GetBytes(origen.ToCharArray())[0] - 65;
             int posDestino = Encoding.ASCII.GetBytes(destino.ToCharArray())[0] - 65;
@@ -79,6 +100,10 @@ namespace WindowsFormsApplication1
             if(!pi.Equals("Null"))
             {
                 result = rutabfs(posDestino, matrizBfs) + destino;
+            }
+            if(result=="" || result==null)
+            {
+                result = "No hay ruta";
             }
             return result;
         }
