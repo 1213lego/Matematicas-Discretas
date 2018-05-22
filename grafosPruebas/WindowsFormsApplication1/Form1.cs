@@ -23,6 +23,12 @@ namespace WindowsFormsApplication1
         {
            try
             {
+                dataGridView1.Visible = true;
+                if (textBox1.Text.Equals("") || textBox1 == null) 
+                {
+                    throw new Exception("Digite un numero en el numero de vertices");
+                }
+                
                 int x = Convert.ToInt32(textBox1.Text) + 1;                
                 dataGridView1.RowCount = x;
                 dataGridView1.ColumnCount = x;
@@ -35,6 +41,7 @@ namespace WindowsFormsApplication1
                 llenar();
                 dataGridView1.AutoResizeColumns();
                 dataGridView1.AutoResizeRows();
+                
             }
             catch (Exception ee)
             {
@@ -98,9 +105,26 @@ namespace WindowsFormsApplication1
                 string nodoOrigen = textBoxOrigen.Text.ToUpper();
                 string nodoDestino = textBoxDestino.Text.ToUpper();                
                 
+                if(nodoOrigen.Equals("")||nodoDestino.Equals(""))
+                {   
+                    if(nodoOrigen.Equals(""))
+                    {
+                        MessageBox.Show("Debe escribir un Nodo de Origen");
+                    }
+                    else
+                    {
+                        MessageBox.Show("Debe escribir un nodo de Destino");
+                    }
+                    
+                }
+                else
+                {
                     string ruta = servicioGrafo.ruta(nodoOrigen, nodoDestino);
                     textBoxRuta.Text = ruta;
+                    txtDistancia.Text = servicioGrafo.darDistancia(nodoDestino);
+                }
                 
+
             }
             catch(Exception ee)
             {

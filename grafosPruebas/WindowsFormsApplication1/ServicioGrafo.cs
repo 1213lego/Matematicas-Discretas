@@ -10,7 +10,7 @@ namespace WindowsFormsApplication1
     class ServicioGrafo
     {
         public string  [,] grafo;
-        
+        public string[,] bfss;
         public string calcularRuta(string nodoOrigen, string nodoDestino)
         {
             string result = null;
@@ -94,6 +94,7 @@ namespace WindowsFormsApplication1
             string result = null;
             verificar(origen, destino);
             string[,] matrizBfs = bfs(origen);
+            bfss = matrizBfs;
             int posOrigen = Encoding.ASCII.GetBytes(origen.ToCharArray())[0] - 65;
             int posDestino = Encoding.ASCII.GetBytes(destino.ToCharArray())[0] - 65;
             string pi = matrizBfs[2, posDestino];
@@ -104,6 +105,17 @@ namespace WindowsFormsApplication1
             if(result=="" || result==null)
             {
                 result = "No hay ruta";
+            }
+            return result;
+        }
+        public String darDistancia(String destino)
+        {
+            String result = null;
+            int posDestino = Encoding.ASCII.GetBytes(destino.ToCharArray())[0] - 65;
+            result = bfss[1, posDestino];
+            if (result.Equals("Infinito"))
+            {
+                result = "0";
             }
             return result;
         }
