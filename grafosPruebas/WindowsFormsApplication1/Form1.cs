@@ -73,21 +73,6 @@ namespace WindowsFormsApplication1
                 }
             }           
         }
-        private void button1_Click_1(object sender, EventArgs e)
-        {
-            string [,] matrizGrafo = new string[dataGridView1.RowCount-1 , dataGridView1.ColumnCount -1];
-            for (int i = 1; i < dataGridView1.RowCount; i++)
-            {
-                for (int j = 1; j < dataGridView1.ColumnCount; j++)
-                {
-                    matrizGrafo[i-1 , j-1 ] =Convert.ToString(dataGridView1[j, i].Value);
-                }
-            }
-            servicioGrafo.setGrafo(matrizGrafo);
-            string nodoOrigen = textBoxOrigen.Text.ToUpper();
-            string nodoDestino = textBoxDestino.Text.ToUpper();
-            MessageBox.Show(servicioGrafo.calcularRuta(nodoOrigen, nodoDestino));
-        }
 
         private void button2_Click(object sender, EventArgs e)
         {

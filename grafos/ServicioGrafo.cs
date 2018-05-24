@@ -10,7 +10,65 @@ namespace WindowsFormsApplication1
     class ServicioGrafo
     {
         public string  [,] grafo;
-        public string[,] bfss;    
+        public string[,] bfss;
+        public string calcularRuta(string nodoOrigen, string nodoDestino)
+        {
+            string result = null;
+            int posOrigen = Encoding.ASCII.GetBytes(nodoOrigen.ToCharArray())[0]-65;
+            int posDestino = Encoding.ASCII.GetBytes(nodoDestino.ToCharArray())[0]-65;
+            if(grafo[posOrigen,posDestino].Equals("1"))
+            {
+                result = nodoOrigen+nodoDestino;
+            }
+            else
+            {
+                result = buscar(posOrigen, posDestino);
+            }
+            return result;
+        }       
+        public string buscar(int posOrigen, int posDestino)
+        {
+            string result = null;
+            ArrayList rutas = new ArrayList();
+            if (grafo[posOrigen, posDestino].Equals("1"))
+            {
+                grafo[posOrigen, posDestino] = "V";
+                string origen = Convert.ToString(Convert.ToChar(posOrigen+65));
+                string destino = Convert.ToString(Convert.ToChar(posDestino+65));
+                result = origen+destino;
+            }
+            else
+            {
+                for(int i=0; i<grafo.GetLength(0);i++)
+                {
+                    if(grafo[posOrigen,i].Equals("1"))
+                    {
+                        grafo[posOrigen, i] = "V";
+                        result = buscar(i, posDestino);
+                        if (result != null)
+                        {
+                            string origen = Convert.ToString(Convert.ToChar(posOrigen+65));
+                            rutas.Add( origen+ result);
+                            result = null;
+                        }
+                    }                    
+                }
+                if(rutas.Count!=0)
+                {
+                    string menor = (string)rutas[0];
+                    for (int i = 0; i < rutas.Count; i++)
+                    {
+                        string actual = (string)rutas[i];
+                        if (actual.Length <= menor.Length)
+                        {
+                            menor = actual;
+                        }
+                    }
+                    result = menor;
+                }
+            }
+            return result;
+        }
         public void verificar(string origen, string destino)
         {
             if(grafo!=null)
